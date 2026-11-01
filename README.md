@@ -5,8 +5,8 @@
 
 <div align="center">
 
-<!-- 타이핑 문구: lines= 뒤를 바꾸세요. 한글 그대로 써도 돼요. 띄어쓰기는 +, 문장 구분은 ; -->
-<img src="https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&weight=700&size=22&pause=1200&color=4BA3B8&center=true&vCenter=true&width=600&height=50&lines=안녕하세요;Hello;こんにちは" alt="typing" />
+<!-- 타이핑 문구: https://readme-typing-svg.demolab.com/demo/ 에서 문구와 색을 넣고 만든 주소로 아래 src를 바꾸세요 (한글·일본어는 인코딩된 주소여야 GitHub에서 보여요) -->
+<img src="https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&weight=700&size=22&pause=1200&color=4BA3B8&center=true&vCenter=true&width=600&height=50&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94;Hello;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF" alt="typing" />
 
 <!-- 이미지 넣는 자리: assets/ 폴더에 파일을 올리고 아래 줄의 주석을 풀어 주세요 -->
 <!-- <img src="assets/image.gif" width="360" alt="" /> -->
