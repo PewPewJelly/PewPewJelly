@@ -1,116 +1,73 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8DC7,100:A78BFA&height=220&section=header&text=PewPewJelly&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=%E3%81%AB%E3%82%83%E3%80%9C%20%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85&descSize=22&descAlignY=60&animation=twinkling" alt="PewPewJelly" />
+<!-- 색: 하늘 BDEBF7 · 민트 C6F2D2 · 남색 2C4A68 · 청록 4BA3B8 -->
+
+<!-- 상단 배너: text=이름, color=그라데이션 (0:시작색,100:끝색), fontColor=글자색 -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:BDEBF7,100:C6F2D2&height=200&section=header&text=PewPewJelly&fontSize=60&fontColor=2C4A68&fontAlignY=40&animation=fadeIn" alt="PewPewJelly" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&weight=700&size=22&pause=1200&color=FF6FB5&center=true&vCenter=true&width=600&height=50&lines=%EC%98%A4%EB%8A%98%EB%8F%84%20%EC%B5%9C%EC%95%A0%EB%A5%BC%20%EC%9C%84%ED%95%B4%20%EC%BB%A4%EB%B0%8B%20%EC%A4%91%20%28%EF%BD%80%E3%83%BB%CF%89%E3%83%BB%C2%B4%29%E3%82%9E;Committing%20for%20my%20oshi%20today;%E4%BB%8A%E6%97%A5%E3%82%82%E6%8E%A8%E3%81%97%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%E3%82%B3%E3%83%9F%E3%83%83%E3%83%88%E4%B8%AD%E3%81%AB%E3%82%83%20%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85" alt="오늘도 최애를 위해 커밋 중" />
+<!-- 타이핑 문구: lines= 뒤를 바꾸세요. 한글 그대로 써도 돼요. 띄어쓰기는 +, 문장 구분은 ; -->
+<img src="https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&weight=700&size=22&pause=1200&color=4BA3B8&center=true&vCenter=true&width=600&height=50&lines=안녕하세요;Hello;こんにちは" alt="typing" />
 
-```
-   ／l、              
- （ﾟ､ ｡ ７    야옹 
-   l  ~ヽ             
-   じしf_,)ノ         
-```
-
-<!-- 최애 짤 넣는 자리: assets/oshi.gif 파일을 올린 뒤 아래 줄의 주석을 풀어 주세요 -->
-<!-- <img src="assets/oshi.gif" width="360" alt="oshi" /> -->
+<!-- 이미지 넣는 자리: assets/ 폴더에 파일을 올리고 아래 줄의 주석을 풀어 주세요 -->
+<!-- <img src="assets/image.gif" width="360" alt="" /> -->
 
 </div>
 
 <details open>
 <summary><b>🇰🇷 한국어</b></summary>
+<br/>
 
-### 프로필
+<img src="https://img.shields.io/badge/소개-BDEBF7?style=for-the-badge" alt="소개" />
 
-> 
-> 
-
-| 이름 | PewPewJelly |
-|---|---|
-| **소개** |  |
-
-### 📜 퀘스트 로그
-
-| 퀘스트 | 내용 | 상태 |
-|---|---|---|
-| [공월난투](https://github.com/PewPewJelly/Gfight) | Godot로 만드는 난투 게임 | 🔥 진행 중 |
-| limbus-deck-builder 🔒 | 림버스 컴퍼니 인격·E.G.O 데이터로 덱을 짜 주는 팬메이드 웹앱 | 🔥 진행 중 |
-| Orexis945 🔒 | Cipher 팬게임. 쿼터뷰 근접 액션, 잠입, 탈출 (Unity) | 🔥 진행 중 |
-| 취향도감 🔒 | 애니·게임 캐릭터 티어 평가와 취향 분석 | 🔥 진행 중 |
-| [p5js](https://github.com/PewPewJelly/p5js) | 2026 Art & Technology 수업 작업물 | ✅ 클리어 |
+<!-- 자기소개를 여기에 써 주세요 -->
+작성 중이에요.
 
 </details>
 
 <details>
 <summary><b>🇺🇸 English</b></summary>
+<br/>
 
-### 🎀 Character profile
+<img src="https://img.shields.io/badge/About-BDEBF7?style=for-the-badge" alt="About" />
 
-> I loved anime and games so much that I started making them myself.
-> Fandom is my fuel (๑•̀ㅂ•́)و✧
-
-| Name | PewPewJelly |
-|---|---|
-| **Species** | Cat ฅ^•ﻌ•^ฅ |
-| **Class** | Game developer |
-| **Trait** | 2D specialist ✦ gacha addict |
-| **Skill** | Making games starring my oshi |
-| **Likes** | Anime, gacha, cats, ranking characters into tiers |
-| **Dislikes** | Bugs, losing the 50/50 |
-| **Oshi** | Limbus Company, Watanare |
-
-### 📜 Quest log
-
-| Quest | About | Status |
-|---|---|---|
-| [Gfight](https://github.com/PewPewJelly/Gfight) | A brawler made with Godot | 🔥 In progress |
-| limbus-deck-builder 🔒 | Fan-made deck builder for Limbus Company identities and E.G.O | 🔥 In progress |
-| Orexis945 🔒 | Cipher fan game: isometric melee, stealth, and extraction (Unity) | 🔥 In progress |
-| Character Taste 🔒 | Tier ratings and taste analysis for anime and game characters | 🔥 In progress |
-| [p5js](https://github.com/PewPewJelly/p5js) | Coursework for 2026 Art & Technology | ✅ Cleared |
+<!-- Write your introduction here -->
+Coming soon.
 
 </details>
 
 <details>
 <summary><b>🇯🇵 日本語</b></summary>
+<br/>
 
-### 🎀 キャラクタープロフィール
+<img src="https://img.shields.io/badge/自己紹介-BDEBF7?style=for-the-badge" alt="自己紹介" />
 
-> アニメとゲームが好きすぎて、ついに自分で作り始めました。
-> 推し活こそが開発の原動力 (๑•̀ㅂ•́)و✧
-
-| 名前 | PewPewJelly |
-|---|---|
-| **種族** | 猫 ฅ^•ﻌ•^ฅ |
-| **職業** | ゲーム開発者 |
-| **属性** | 二次元専門 ✦ ガチャ中毒 |
-| **特技** | 推しでゲームを作ること |
-| **好きなもの** | アニメ、ガチャ、猫、キャラのティア付け |
-| **苦手なもの** | バグ、すり抜け |
-| **推し** | Limbus Company、わたなれ |
-
-### 📜 クエストログ
-
-| クエスト | 内容 | 状態 |
-|---|---|---|
-| [공월난투 (Gfight)](https://github.com/PewPewJelly/Gfight) | Godotで作っている乱闘ゲーム | 🔥 進行中 |
-| limbus-deck-builder 🔒 | Limbus Companyの人格・E.G.Oデータでデッキを組むファンメイドWebアプリ | 🔥 進行中 |
-| Orexis945 🔒 | Cipherファンゲーム。クォータービューの近接アクション、潜入、脱出 (Unity) | 🔥 進行中 |
-| 好み図鑑 🔒 | アニメ・ゲームキャラのティア評価と好み分析 | 🔥 進行中 |
-| [p5js](https://github.com/PewPewJelly/p5js) | 2026 Art & Technology の課題作品 | ✅ クリア |
+<!-- 自己紹介をここに書いてください -->
+準備中です。
 
 </details>
 
+<br/>
+
 <div align="center">
 
-### ⚔️ 장비창 · Equipment · 装備
+<img src="https://img.shields.io/badge/Projects-C6F2D2?style=for-the-badge" alt="Projects" />
 
-<img src="https://skillicons.dev/icons?i=unity,cs,godot,ts,js,html,css,p5js,c,py,lua,r,git,vscode&perline=7" alt="tech stack" />
+<!-- 설명 칸을 채워 주세요. 비공개 레포는 링크 없이 이름만 -->
+| Project | Description |
+|---|---|
+| [Gfight](https://github.com/PewPewJelly/Gfight) | |
+| limbus-deck-builder 🔒 | |
+| Orexis945 🔒 | |
+| character-taste 🔒 | |
+| [p5js](https://github.com/PewPewJelly/p5js) | |
 
-<br/><br/>
+<br/>
 
-<sub>방문자 · Visitors · 訪問者</sub><br/>
-<img src="https://count.getloli.com/@PewPewJelly?name=PewPewJelly&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="visitor counter" />
+<img src="https://img.shields.io/badge/Tech_Stack-2C4A68?style=for-the-badge" alt="Tech Stack" /><br/>
+
+<!-- 아이콘: https://skillicons.dev 에서 이름을 확인하고 i= 뒤에 쉼표로 추가 -->
+<img src="https://skillicons.dev/icons?i=unity,cs,godot,ts,js,html,css,p5js,c,py,lua,r,git,vscode&perline=7&theme=light" alt="tech stack" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:FF8DC7&height=120&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:C6F2D2,100:BDEBF7&height=120&section=footer" alt="" />
